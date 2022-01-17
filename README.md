@@ -1,21 +1,21 @@
 ### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://medium.com/@itssarthakvajpayee">
-  <img align="left" alt="Sarthak's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Sarthak's Medium" width="22px" src="./icons/medium.png" />
 </a>
 <a href="https://sarthakv7.github.io/my_folio/">
-  <img align="left" alt="Sarthak's Website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sarthak's Website" width="22px" src="./icons/www.png" />
 </a>
 <a href="https://www.linkedin.com/in/sarthak-vajpayee/">
-  <img align="left" alt="Sarthak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sarthak's LinkedIN" width="22px" src="./icons/linkedin.png" />
 </a>
 <a href="https://open.spotify.com/user/31xcw7slsubjhc5blt2kuhgcv7qu">
-  <img align="left" alt="Sarthak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Sarthak's Spotify" width="22px" src="./icons/spotify.png" />
 </a>
 <a href="https://www.instagram.com/sarthakvajpayee/">
-  <img align="left" alt="Sarthak's Insta" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Sarthak's Insta" width="22px" src="./icons/instagram.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC2gkykteLJAJbk6G4aRu8tw/">
-  <img align="left" alt="Sarthak's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Sarthak's YouTube" width="22px" src="./icons/youtube.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SarthakV7.SarthakV7)
@@ -27,7 +27,7 @@ Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 
-<img align="right" alt="GIF" src="https://i.ibb.co/hM9T6xv/pattern.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./icons/pattern.gif?raw=true" width="320" height="320" />
 
 
 - 💼 any freelance work? do reach, [email](mailto:itssarthakvajpayee@gmail.com) :)
@@ -35,16 +35,12 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 **languages and tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="./icons/python.png"></code>
+<code><img height="20" src="./icons/tensorflow.png"></code>
+<code><img height="20" src="./icons/sql.png"></code>
+<code><img height="20" src="./icons/aws.png"></code>
+<code><img height="20" src="./icons/google.png"></code>
+<code><img height="20" src="./icons/docker.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
