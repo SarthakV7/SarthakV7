@@ -27,7 +27,7 @@ Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:itssarthakvajpayee@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -67,4 +67,4 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarthakV7&show_icons=true&theme=dracula" alt="SarthakV7" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarthakV7&show_icons=true&theme=gruvbox" alt="SarthakV7" />
