@@ -27,7 +27,7 @@ Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif">
+<img src="https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif" width="25px">
   
 - 💼 any freelance work? do reach, [email](mailto:itssarthakvajpayee@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
