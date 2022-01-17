@@ -1,7 +1,5 @@
 ### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://medium.com/@itssarthakvajpayee">
-  <img align="left" alt="Sarthak's Medium" width="22px" src="./icons/medium.png" />
-</a>
+
 <a href="https://sarthakv7.github.io/my_folio/">
   <img align="left" alt="Sarthak's Website" width="22px" src="./icons/url.png" />
 </a>
@@ -17,6 +15,10 @@
 <a href="https://www.youtube.com/channel/UC2gkykteLJAJbk6G4aRu8tw/">
   <img align="left" alt="Sarthak's YouTube" width="22px" src="./icons/youtube.png" />
 </a>
+<a href="https://medium.com/@itssarthakvajpayee">
+  <img align="left" alt="Sarthak's Medium" width="22px" src="./icons/medium.png" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SarthakV7.SarthakV7)
 
