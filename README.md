@@ -1,4 +1,4 @@
-### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif" width="25px">
+### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://medium.com/@itssarthakvajpayee">
   <img align="left" alt="Sarthak's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -27,8 +27,9 @@ Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 
-<img src="https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif" width="25px">
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif" width="500" height="320" />
+
+
 - 💼 any freelance work? do reach, [email](mailto:itssarthakvajpayee@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
