@@ -41,6 +41,10 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 <code><img height="20" src="./icons/aws.png"></code>
 <code><img height="20" src="./icons/google.png"></code>
 <code><img height="20" src="./icons/docker.png"></code>
+<code><img height="20" src="./icons/azure.png"></code>
+<code><img height="20" src="./icons/bash.png"></code>
+<code><img height="20" src="./icons/github.png"></code>
+<code><img height="20" src="./icons/pytorch.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
