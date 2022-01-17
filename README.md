@@ -1,4 +1,4 @@
-### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif" width="25px">
 <a href="https://medium.com/@itssarthakvajpayee">
   <img align="left" alt="Sarthak's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
