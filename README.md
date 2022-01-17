@@ -3,7 +3,7 @@
   <img align="left" alt="Sarthak's Medium" width="22px" src="./icons/medium.png" />
 </a>
 <a href="https://sarthakv7.github.io/my_folio/">
-  <img align="left" alt="Sarthak's Website" width="22px" src="https://media.giphy.com/media/3ohs7Sjl26eSQjem3K/giphy.gif" />
+  <img align="left" alt="Sarthak's Website" width="22px" src="./icons/url.png" />
 </a>
 <a href="https://www.linkedin.com/in/sarthak-vajpayee/">
   <img align="left" alt="Sarthak's LinkedIN" width="22px" src="./icons/linkedin.png" />
