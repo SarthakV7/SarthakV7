@@ -28,7 +28,7 @@
 <br />
 
 
-Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught Data Scientist from India who loves building apps and telling stories through data. Currently working as a Senior Data Science Consultant at EY and a Freelance Data Scientist.
+Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught Data Scientist from India who loves building apps and telling stories through data. Currently working as a Senior Data Science Consultant at <a href="https://www.ey.com/en_in"><img alt="EY" width="24px" src="https://www.analyticsinstitute.org/summit/sponsors_files/small-1029.png" /></a> and a Freelance Data Scientist.
 
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
