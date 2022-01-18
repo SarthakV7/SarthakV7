@@ -62,7 +62,6 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img align="right" alt="GIF" src="./icons/animation.gif" width="320" height="320" />
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -75,4 +74,6 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarthakV7&show_icons=true&theme=gruvbox" alt="SarthakV7" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=SarthakV7&show_icons=true&theme=gruvbox" alt="SarthakV7" />
+
+<img align="center" alt="GIF" src="./icons/animation.gif" width="720" height="320" /> 
