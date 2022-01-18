@@ -1,7 +1,5 @@
 ### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="./icons/pattern.gif?raw=true" width="320" height="320" />
-
 <a href="https://sarthakv7.github.io/my_folio/" target="_blank">
   <img align="left" alt="Sarthak's Website" width="22px" src="./icons/url.png" />
 </a>
@@ -37,6 +35,8 @@ I am also an open-source enthusiast and contributor. I learned a lot from the op
 
 - 💼 any freelance work? do reach, [email](mailto:itssarthakvajpayee@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
+<img align="right" alt="GIF" src="./icons/pattern.gif?raw=true" width="320" height="320" />
 
 **languages and tools:**
 
@@ -74,6 +74,4 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=SarthakV7&show_icons=true&theme=gruvbox" alt="SarthakV7" />
-
-<img align="center" alt="GIF" src="./icons/animation.gif" width="720" height="320" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarthakV7&show_icons=true&theme=gruvbox" alt="SarthakV7" />
