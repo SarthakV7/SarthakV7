@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/sarthak-vajpayee/">
   <img align="left" alt="Sarthak's LinkedIN" width="22px" src="./icons/linkedin.png" />
 </a>
+<a href="https://www.kaggle.com/sarthakvajpayee">
+  <img align="left" alt="Sarthak's Kaggle" width="22px" src="./icons/kaggle.png" />
+</a>
 <a href="https://open.spotify.com/user/31xcw7slsubjhc5blt2kuhgcv7qu">
   <img align="left" alt="Sarthak's Spotify" width="22px" src="./icons/spotify.png" />
 </a>
