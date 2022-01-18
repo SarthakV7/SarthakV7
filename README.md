@@ -1,24 +1,24 @@
 ### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://sarthakv7.github.io/my_folio/">
+<a href="https://sarthakv7.github.io/my_folio/" target="_blank">
   <img align="left" alt="Sarthak's Website" width="22px" src="./icons/url.png" />
 </a>
-<a href="https://www.linkedin.com/in/sarthak-vajpayee/">
+<a href="https://www.linkedin.com/in/sarthak-vajpayee/" target="_blank">
   <img align="left" alt="Sarthak's LinkedIN" width="22px" src="./icons/linkedin.png" />
 </a>
-<a href="https://www.kaggle.com/sarthakvajpayee">
+<a href="https://www.kaggle.com/sarthakvajpayee" target="_blank">
   <img align="left" alt="Sarthak's Kaggle" width="22px" src="./icons/kaggle.png" />
 </a>
-<a href="https://open.spotify.com/user/31xcw7slsubjhc5blt2kuhgcv7qu">
+<a href="https://open.spotify.com/user/31xcw7slsubjhc5blt2kuhgcv7qu" target="_blank">
   <img align="left" alt="Sarthak's Spotify" width="22px" src="./icons/spotify.png" />
 </a>
-<a href="https://www.instagram.com/sarthakvajpayee/">
+<a href="https://www.instagram.com/sarthakvajpayee/" target="_blank">
   <img align="left" alt="Sarthak's Insta" width="22px" src="./icons/instagram.png" />
 </a>
-<a href="https://www.youtube.com/channel/UC2gkykteLJAJbk6G4aRu8tw/">
+<a href="https://www.youtube.com/channel/UC2gkykteLJAJbk6G4aRu8tw/" target="_blank">
   <img align="left" alt="Sarthak's YouTube" width="22px" src="./icons/youtube.png" />
 </a>
-<a href="https://medium.com/@itssarthakvajpayee">
+<a href="https://medium.com/@itssarthakvajpayee" target="_blank">
   <img align="left" alt="Sarthak's Medium" width="22px" src="./icons/medium.png" />
 </a>
 
