@@ -9,6 +9,9 @@
 <a href="https://www.kaggle.com/sarthakvajpayee" target="_blank">
   <img align="left" alt="Sarthak's Kaggle" width="22px" src="./icons/kaggle.png" />
 </a>
+<a href="https://medium.com/@itssarthakvajpayee" target="_blank">
+  <img align="left" alt="Sarthak's Medium_2" width="22px" src="./icons/medium.png" />
+</a>
 <a href="https://open.spotify.com/user/31xcw7slsubjhc5blt2kuhgcv7qu" target="_blank">
   <img align="left" alt="Sarthak's Spotify" width="22px" src="./icons/spotify.png" />
 </a>
@@ -17,9 +20,6 @@
 </a>
 <a href="https://www.youtube.com/channel/UC2gkykteLJAJbk6G4aRu8tw/" target="_blank">
   <img align="left" alt="Sarthak's YouTube" width="22px" src="./icons/youtube.png" />
-</a>
-<a href="https://medium.com/@itssarthakvajpayee" target="_blank">
-  <img align="left" alt="Sarthak's Medium" width="22px" src="./icons/medium.png" />
 </a>
 
 
