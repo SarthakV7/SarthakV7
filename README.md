@@ -27,12 +27,11 @@
 
 <br />
 
+<img align="right" alt="GIF" src="./icons/pattern.gif?raw=true" width="320" height="320" />
+
 Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught Data Scientist from India who loves building apps and telling stories through data. Currently working as a Senior Data Science Consultant at EY and a Freelance Data Scientist.
 
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
-
-
-<img align="right" alt="GIF" src="./icons/pattern.gif?raw=true" width="320" height="320" />
 
 
 - 💼 any freelance work? do reach, [email](mailto:itssarthakvajpayee@gmail.com) :)
