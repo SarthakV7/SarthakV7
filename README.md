@@ -62,7 +62,7 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/a4/a3/42/a4a342473f7e5165c886fa96696a2112.gif" width="320" height="320" />
+<img align="right" alt="GIF" src="./icons/animation.gif" width="320" height="320" />
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
