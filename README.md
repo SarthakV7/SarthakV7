@@ -10,7 +10,7 @@
   <img align="left" alt="Sarthak's Kaggle" width="22px" src="./icons/kaggle.png" />
 </a>
 <a href="https://medium.com/@itssarthakvajpayee" target="_blank">
-  <img align="left" alt="Sarthak's Medium_2" width="22px" src="./icons/medium.png" />
+  <img align="left" alt="Sarthak's Medium" width="22px" src="./icons/medium_2.png" />
 </a>
 <a href="https://open.spotify.com/user/31xcw7slsubjhc5blt2kuhgcv7qu" target="_blank">
   <img align="left" alt="Sarthak's Spotify" width="22px" src="./icons/spotify.png" />
