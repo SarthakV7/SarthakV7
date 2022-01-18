@@ -1,5 +1,7 @@
 ### Ver Heill ok Sæll! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" alt="GIF" src="./icons/pattern.gif?raw=true" width="320" height="320" />
+
 <a href="https://sarthakv7.github.io/my_folio/" target="_blank">
   <img align="left" alt="Sarthak's Website" width="22px" src="./icons/url.png" />
 </a>
@@ -27,7 +29,6 @@
 
 <br />
 
-<img align="right" alt="GIF" src="./icons/pattern.gif?raw=true" width="320" height="320" />
 
 Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught Data Scientist from India who loves building apps and telling stories through data. Currently working as a Senior Data Science Consultant at EY and a Freelance Data Scientist.
 
