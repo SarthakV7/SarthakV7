@@ -1,4 +1,4 @@
-### Ver Heill ok Sæll! <img src="https://i.pinimg.com/originals/09/ef/35/09ef35c5d29a3f7c9cc356f05e9f3541.gif" width="25px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Ver Heill ok Sæll! <img src="https://i.pinimg.com/originals/09/ef/35/09ef35c5d29a3f7c9cc356f05e9f3541.gif" width="32px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://sarthakv7.github.io/my_folio/" target="_blank">
   <img align="left" alt="Sarthak's Website" width="22px" src="./icons/url.png" />
