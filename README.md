@@ -28,7 +28,7 @@
 <br />
 
 
-Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught Data Scientist from India who loves building apps and telling stories through data. Currently pursuing MS in Business Analytics (Data Science) from the University of Texas at Dallas. Precedingly, I worked as a Senior Data Science Consultant at <a href="https://www.ey.com/en_in"><img alt="EY" width="24px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ey_logo_icon_171167.png" /></a> and a Freelance Data Scientist.
+Hi, I'm [Sarthak Vajpayee](https://sarthakv7.github.io/my_folio/), a self-taught Data Scientist from India who loves building apps and telling stories through data. Currently pursuing MS in Business Analytics (Data Science) from the University of Texas at Dallas. Precedingly, I worked as a Senior Data Science Consultant at <a href="https://www.ey.com/en_in"><img alt="EY" width="24px" src="https://globalhappiness.org/wp-content/uploads/2018/04/PG-9-EY-logo.jpg" /></a> and a Freelance Data Scientist.
 
 I am also an open-source enthusiast and contributor. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
